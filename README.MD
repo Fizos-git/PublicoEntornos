@@ -1,1 +1,8 @@
-Prueba
+<!DOCTYPE>
+<html>
+<head>
+</head>
+<body>
+<p>Prueba.</p>
+</body>
+</html>
